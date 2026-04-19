@@ -9,10 +9,10 @@
   "browserslist": [
     "last 3 versions"
   ],
-  "author": "Asacolips",
+  "author": "Chris Maheu II",
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "sass": "^1.53.0"
+    "sass": "^1.99.0"
   }
 }
